@@ -25,6 +25,10 @@
     "anonymize",
     "anonymizer"
   ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/bertrandom/email-obfuscator.git"
+  },
   "author": "Bertrand Fan <bertrand@fan.net> (http://thatsaspicymeatball.com/)",
   "license": "MIT"
 }
