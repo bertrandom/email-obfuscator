@@ -7,6 +7,8 @@ For example,
 
 `awesometown@gmail.com` becomes `axxxxxxxxxx@gxxxx.com`
 
+[![Build Status](https://travis-ci.org/bertrandom/email-obfuscator.svg?branch=master)](https://travis-ci.org/bertrandom/email-obfuscator)
+
 ## Usage
 
 ```
