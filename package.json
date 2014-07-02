@@ -1,0 +1,30 @@
+{
+  "name": "email-obfuscator",
+  "version": "0.0.1",
+  "description": "Obfuscates e-mail addresses with x's (e.g. awesometown@gmail.com becomes axxxxxxxxxx@gxxxx.com)",
+  "main": "lib/email-obfuscator.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "email-addresses": "^1.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "chai": "^1.9.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "email",
+    "obfuscate",
+    "obfuscator",
+    "scrub",
+    "scrubber",
+    "anonymize",
+    "anonymizer"
+  ],
+  "author": "Bertrand Fan <bertrand@fan.net> (http://thatsaspicymeatball.com/)",
+  "license": "MIT"
+}
