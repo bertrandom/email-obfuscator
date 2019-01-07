@@ -1,6 +1,6 @@
 {
   "name": "email-obfuscator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Obfuscates e-mail addresses with x's (e.g. awesometown@gmail.com becomes axxxxxxxxxx@gxxxx.com)",
   "main": "lib/email-obfuscator.js",
   "directories": {
