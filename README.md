@@ -27,9 +27,9 @@ You can optionally pass a custom character as the second argument. This can also
 
 Examples:
 
-- `obfuscate('awesometown@gmail.com', '*') //produces 'a**********@g****.com'
-- `obfuscate('awesometown@gmail.com', 'ha') //produces 'ahahahahahahahahahaha@ghahahaha.com'
-- `obfuscate('awesometown@gmail.com', '🤔') //produces 'a🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔@g🤔🤔🤔🤔.com'
+- `obfuscate('awesometown@gmail.com', '*') //produces 'a**********@g****.com'`
+- `obfuscate('awesometown@gmail.com', 'ha') //produces 'ahahahahahahahahahaha@ghahahaha.com'`
+- `obfuscate('awesometown@gmail.com', '🤔') //produces 'a🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔@g🤔🤔🤔🤔.com'`
 
 ## License
 
